@@ -45,9 +45,27 @@ String --> String
 */
 
 
+//***********************************************************************
+
+// Stck (Primitive)
+// Heap (Non-primitive)
 
 
+let myYoutubename = "Prashantcoder"
+
+let anothernmae =myYoutubename
+
+anothernmae ="chaiaurcode"
+
+console.log(myYoutubename);
+console.log(anothernmae);
 
 
-
-
+let user = {
+    email: "parshagmail.com",
+    upi: "4644@ybl"
+}
+let user2 = user
+user2.email = "bjkbjkb@hkjj";
+console.log(user);
+console.log(user2);
