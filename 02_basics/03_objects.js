@@ -3,7 +3,7 @@
 //objects literals
 
 // Object.create
-const mySym = Symbol("key1")
+//const mySym = Symbol("key1")
 
 
 const jsuser = {
