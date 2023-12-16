@@ -37,8 +37,6 @@ jsuser.greeting = function() {
 }
 // console.log(jsuser.greeting);
 // console.log(jsuser.greeting());//it gives funstion return not execute the function
-// console.log(jsuser.greeting());//it gives funstion return not execute the function
-
 
 jsuser.greeting2 = function() {
     console.log(`Hello Js user, ${this.name}`);
