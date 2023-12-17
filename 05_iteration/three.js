@@ -18,10 +18,10 @@
 
 //Map
 
-// const map =new Map()
-// map.set('IN', "India")
-// map.set('oN', "Inladia")
-// map.set('UN', "United State Of America")
+const map =new Map()
+map.set('IN', "India")
+map.set('oN', "Inladia")
+map.set('UN', "United State Of America")
 
 // console.log(map);
 
@@ -29,12 +29,5 @@
 //     console.log(key, ":=", value);
 // }
 
-
-
-const myObj = {
-    
-}
-
-
-
+ 
 
